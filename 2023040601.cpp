@@ -1,3 +1,4 @@
+//三位整数的各位和
 #include<stdio.h>
 int main()
 {
